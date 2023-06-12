@@ -30,6 +30,7 @@ git clone https://github.com/Qiushihua1/vue-full-stack-system.git
 ```
 
 - 本地安装mysql，最好安装一下`navicat`。打开`navicat`，新建一个数据库 然后右键运行sql 选择 server文件夹下面的 web_full_stack.sql文件
+- 注意：创建的数据库或MySQL参数都需配置好，以避免数据库报错
 - 进入本项目根目录，并安装依赖
 ```shell
 npm i 
